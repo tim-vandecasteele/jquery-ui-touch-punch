@@ -1,3 +1,5 @@
+> **This branch enables text inputs in sortables, jquery.ui.touch-punch.min.js is not updated**
+
 # jQuery UI Touch Punch
 ## Touch Event Support for jQuery UI
 
